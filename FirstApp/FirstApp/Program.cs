@@ -10,44 +10,52 @@ namespace FirstApp
     {
         static void Main(string[] args)
         {
+            string[] stringArray = new string[] { "Entry", "Junior", "Mid-level", "Professional", "Senior"};
             while (true)
             { 
             Console.WriteLine("kokia darbuotojo darbo patirtis");
 
-            // int choise = Convert.ToInt32(Console.ReadLine());
-            // if (choise == 0)
-            string line = Console.ReadLine();
+                              string line = Console.ReadLine();
             int choise;
             int.TryParse(line, out choise);
-            if (choise == 0)
-            {
-                Console.WriteLine("Entry");
-            }
+                if (choise == 0)
+                {
+                    Console.WriteLine(stringArray[0]);
+                                   }
+                else if (choise <0)
+                {
+                    Console.WriteLine("Patirtis negali buti mazesne nei 0 arba didesne nei 100");
+                }
+               else if (choise >100)
+                {
+                    Console.WriteLine("Patirtis negali buti mazesne nei 0 arba didesne nei 100");
+                }
 
-            else if (choise > 0 && choise < 2)
+                else if (choise > 0 && choise < 2)
             {
-                Console.WriteLine("Junior");
+                Console.WriteLine(stringArray[1]);
             }
 
             else if (choise >= 2 && choise < 4)
             {
-                Console.WriteLine("Mid-level");
+                Console.WriteLine(stringArray[2]);
             }
 
             else if (choise >= 4 && choise < 6.5)
             {
-                Console.WriteLine("Professional");
+                Console.WriteLine(stringArray[3]);
             }
 
             else if (choise >= 6.5)
             {
-                Console.WriteLine("Senior");
+                Console.WriteLine(stringArray[4]);
             }
-            else
+                             else
             {
-                Console.WriteLine("Wrong");
+                Console.WriteLine("Ivestas blogas argumentas. Ivesti galima tik skaiciu");
             }
-        }  
+        }
+           
 
             //Darbuotojo vardas
             //string Name = "Lina";

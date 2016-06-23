@@ -4,3 +4,6 @@ C:\Users\arcimlin\Documents\Programming\FirstApp\FirstApp\bin\Debug\FirstApp.exe
 C:\Users\arcimlin\Documents\Programming\FirstApp\FirstApp\bin\Debug\FirstApp.pdb
 C:\Users\arcimlin\Documents\Programming\FirstApp\FirstApp\obj\Debug\FirstApp.exe
 C:\Users\arcimlin\Documents\Programming\FirstApp\FirstApp\obj\Debug\FirstApp.pdb
+C:\Users\arcimlin\Documents\Programming\Programming\FirstApp\FirstApp\bin\Debug\FirstApp.exe.config
+C:\Users\arcimlin\Documents\Programming\Programming\FirstApp\FirstApp\obj\Debug\FirstApp.exe
+C:\Users\arcimlin\Documents\Programming\Programming\FirstApp\FirstApp\obj\Debug\FirstApp.pdb
