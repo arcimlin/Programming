@@ -1,0 +1,6 @@
+C:\Users\arcimlin\Documents\Programming\ND3\ND3\bin\Debug\ND3.exe.config
+C:\Users\arcimlin\Documents\Programming\ND3\ND3\bin\Debug\ND3.exe
+C:\Users\arcimlin\Documents\Programming\ND3\ND3\bin\Debug\ND3.pdb
+C:\Users\arcimlin\Documents\Programming\ND3\ND3\obj\Debug\ND3.csprojResolveAssemblyReference.cache
+C:\Users\arcimlin\Documents\Programming\ND3\ND3\obj\Debug\ND3.exe
+C:\Users\arcimlin\Documents\Programming\ND3\ND3\obj\Debug\ND3.pdb
